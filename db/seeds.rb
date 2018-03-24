@@ -11,6 +11,6 @@
     title: "Document #{d}",
     description: "Aliquam erat volutpat. Nullam euismod mattis nisl sit amet eleifend. Pellentesque vel fringilla lacus. In hac habitasse platea dictumst.",
     file_url: "https://docs.google.com/document/d/1GrlrwJy_aHw78M3mJ9davPTci88YPq1THJJ1tWQ0ZC4/edit?usp=sharing",
-    image_url: "https://placeholdit.co//i/318x180?bg=0d48c4"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Freelance_Work_Theme-2.jpg"
   )
 end
